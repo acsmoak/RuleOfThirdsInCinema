@@ -1,0 +1,327 @@
+psycho_1.png
+  1		(190, 243)		183.3		11664		46.9%
+Face number: 1		Distance: 183.0		Percent: 46.9
+
+
+
+psycho_2.png
+  1		(811, 218)		66.7		5041		15.1%
+Face number: 1		Distance: 67.0		Percent: 15.1
+
+
+
+psycho_3.png
+  1		(331, 238)		42.3		7569		10.8%
+  2		(855, 200)		113.9		5929		25.8%
+Face number: 1		Distance: 42.0		Percent: 10.8
+
+
+
+psycho_4.png
+  1		(482, 200)		113.9		19044		38.1%
+Face number: 1		Distance: 114.0		Percent: 38.1
+
+
+
+psycho_5.png
+  1		(541, 266)		171.2		65536		77.6%
+Face number: 1		Distance: 171.0		Percent: 77.6
+
+
+
+psycho_6.png
+  1		(567, 267)		182.2		53824		82.9%
+Face number: 1		Distance: 182.0		Percent: 82.9
+
+
+
+psycho_7.png
+  1		(409, 154)		86.8		6241		29.1%
+Face number: 1		Distance: 87.0		Percent: 29.1
+
+
+
+psycho_8.png
+  1		(776, 231)		30.1		30625		6.8%
+Face number: 1		Distance: 30.0		Percent: 6.8
+
+
+
+psycho_9.png
+  1		(790, 209)		50.1		28561		11.4%
+Face number: 1		Distance: 50.0		Percent: 11.4
+
+
+
+psycho_10.png
+  1		(583, 219)		163.6		21316		54.9%
+Face number: 1		Distance: 164.0		Percent: 54.9
+
+
+
+psycho_11.png
+  1		(548, 199)		178.3		33856		59.7%
+Face number: 1		Distance: 178.0		Percent: 59.7
+
+
+
+psycho_12.png
+  1		(476, 226)		103.2		27225		34.6%
+Face number: 1		Distance: 103.0		Percent: 34.6
+
+
+
+psycho_13.png
+  1		(479, 176)		120.4		20449		40.3%
+Face number: 1		Distance: 120.0		Percent: 40.3
+
+
+
+psycho_14.png
+  1		(623, 249)		124.0		32400		56.4%
+Face number: 1		Distance: 124.0		Percent: 56.4
+
+
+
+psycho_15.png
+  1		(647, 235)		99.0		32041		45.1%
+Face number: 1		Distance: 99.0		Percent: 45.1
+
+
+
+psycho_16.png
+  1		(335, 177)		67.7		18225		15.4%
+  2		(748, 268)		35.1		24649		8.9%
+Face number: 2		Distance: 35.0		Percent: 8.9
+
+
+
+psycho_17.png
+  1		(782, 166)		76.1		7225		17.3%
+Face number: 1		Distance: 76.0		Percent: 17.3
+
+
+
+psycho_18.png
+  1		(875, 173)		142.3		10000		32.3%
+Face number: 1		Distance: 142.0		Percent: 32.3
+
+
+
+psycho_19.png
+  1		(383, 161)		72.7		5625		24.3%
+Face number: 1		Distance: 73.0		Percent: 24.3
+
+
+
+psycho_20.png
+  1		(429, 310)		95.2		21609		43.2%
+Face number: 1		Distance: 95.0		Percent: 43.2
+
+
+
+psycho_21.png
+  1		(517, 280)		151.5		56169		68.7%
+Face number: 1		Distance: 151.0		Percent: 68.7
+
+
+
+psycho_22.png
+  1		(462, 264)		94.2		36481		42.7%
+Face number: 1		Distance: 94.0		Percent: 42.7
+
+
+
+psycho_23.png
+  1		(606, 233)		140.0		11025		63.7%
+Face number: 1		Distance: 140.0		Percent: 63.7
+
+
+
+psycho_24.png
+  1		(287, 204)		90.8		9801		20.6%
+Face number: 1		Distance: 91.0		Percent: 20.6
+
+
+
+psycho_25.png
+  1		(616, 222)		130.5		16900		43.8%
+Face number: 1		Distance: 130.0		Percent: 43.8
+
+
+
+psycho_26.png
+  1		(583, 250)		163.9		53361		74.6%
+Face number: 1		Distance: 164.0		Percent: 74.6
+
+
+
+psycho_27.png
+  1		(508, 219)		135.7		269361		45.4%
+Face number: 1		Distance: 136.0		Percent: 45.4
+
+
+
+psycho_28.png
+  1		(561, 286)		192.4		184900		87.6%
+Face number: 1		Distance: 192.0		Percent: 87.6
+
+
+
+psycho_29.png
+  1		(481, 230)		108.0		28224		36.2%
+Face number: 1		Distance: 108.0		Percent: 36.2
+
+
+
+psycho_30.png
+  1		(655, 250)		92.6		65536		42.1%
+Face number: 1		Distance: 93.0		Percent: 42.1
+
+
+
+psycho_31.png
+  1		(326, 186)		66.5		10816		15.1%
+Face number: 1		Distance: 66.0		Percent: 15.1
+
+
+
+psycho_32.png
+  1		(924, 359)		207.7		21609		53.0%
+  2		(709, 222)		38.6		10404		12.9%
+Face number: 2		Distance: 39.0		Percent: 12.9
+
+
+
+psycho_33.png
+  1		(600, 235)		146.0		27889		66.4%
+Face number: 1		Distance: 146.0		Percent: 66.4
+
+
+
+psycho_34.png
+  1		(388, 201)		35.3		7569		11.8%
+  2		(769, 273)		46.1		13456		11.8%
+Face number: 1		Distance: 35.0		Percent: 11.8
+
+
+
+psycho_35.png
+  1		(764, 319)		87.9		34969		22.4%
+Face number: 1		Distance: 88.0		Percent: 22.4
+
+
+
+psycho_36.png
+  1		(391, 249)		24.1		37249		10.9%
+Face number: 1		Distance: 24.0		Percent: 10.9
+
+
+
+psycho_37.png
+  1		(717, 230)		29.2		23409		9.8%
+Face number: 1		Distance: 29.0		Percent: 9.8
+
+
+
+psycho_38.png
+  1		(721, 214)		31.4		20736		10.5%
+Face number: 1		Distance: 31.0		Percent: 10.5
+
+
+
+psycho_39.png
+  1		(395, 195)		43.9		17424		14.7%
+Face number: 1		Distance: 44.0		Percent: 14.7
+
+
+
+psycho_40.png
+  1		(706, 213)		44.7		20736		15.0%
+Face number: 1		Distance: 45.0		Percent: 15.0
+
+
+
+psycho_41.png
+  1		(678, 161)		99.0		5329		33.2%
+Face number: 1		Distance: 99.0		Percent: 33.2
+
+
+
+psycho_42.png
+  1		(556, 166)		194.9		6400		65.2%
+Face number: 1		Distance: 195.0		Percent: 65.2
+
+
+
+psycho_43.png
+  1		(185, 259)		189.8		71824		48.5%
+  2		(628, 222)		118.5		19044		39.8%
+Face number: 2		Distance: 119.0		Percent: 39.8
+
+
+
+psycho_44.png
+  1		(524, 184)		158.8		11025		53.1%
+Face number: 1		Distance: 159.0		Percent: 53.1
+
+
+
+psycho_45.png
+  1		(577, 225)		169.2		30276		56.7%
+Face number: 1		Distance: 169.0		Percent: 56.7
+
+
+
+psycho_46.png
+  1		(911, 225)		165.2		8836		37.5%
+Face number: 1		Distance: 165.0		Percent: 37.5
+
+
+
+psycho_47.png
+  1		(676, 181)		87.2		22500		29.2%
+Face number: 1		Distance: 87.0		Percent: 29.2
+
+
+
+psycho_48.png
+  1		(425, 212)		56.1		17424		18.8%
+Face number: 1		Distance: 56.0		Percent: 18.8
+
+
+
+psycho_49.png
+  1		(474, 261)		104.8		47961		47.5%
+Face number: 1		Distance: 105.0		Percent: 47.5
+
+
+
+psycho_50.png
+  1		(432, 239)		59.3		98596		26.9%
+Face number: 1		Distance: 59.0		Percent: 26.9
+
+
+
+psycho_51.png
+  1		(444, 283)		86.8		68644		39.4%
+Face number: 1		Distance: 87.0		Percent: 39.4
+
+
+
+psycho_52.png
+  1		(734, 294)		62.2		62500		28.3%
+Face number: 1		Distance: 62.0		Percent: 28.3
+
+
+
+psycho_53.png
+  1		(507, 295)		147.6		70756		66.9%
+Face number: 1		Distance: 148.0		Percent: 66.9
+
+
+
+Average percent		36.8%
+
+
+
